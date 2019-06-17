@@ -1,5 +1,5 @@
 I have created this dirty script that parses through WAF logs . It currently supports the following: 1) Searching requests that fall within a starttime and endtime. 2) Searching requests that match one or more strings in the logs. You can enter multiple search strings together and use a "matchall" or "matchany". 3) Choose to view all the requests that matched the search (in indented JSON format) or just see the number of requests that matched the search.
-Main Text
+
 
 
 The script:
